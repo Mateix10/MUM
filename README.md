@@ -2,12 +2,13 @@
 Matt's Universal Macropad (MUM) is a 7-key macropad. It uses the kmk frimware.
 # Features
 - 7 programable keys
+- 2 rgb leds
 # CAD Model
 It has 2 seperate 3d-printed pieces. The bottom case where the PCB goes, and the top cover.
 
 <img src=assets/CAD_Screenshot.png>
 
-<img src=assets/CAD_Render.png>
+<img src=assets/CAD_Render.PNG>
 
 Made in Fusion 360.
 # PCB
