@@ -33,7 +33,6 @@ The Frimware/main.py code has the following macros:
 # BOM
 Here's everything you need to bring this hackpad to life!
 
-BOM: 
 - 4x Cherry MX Switches
 - 2x SK6812 MINI Leds
 - 1x XIAO RP2040
